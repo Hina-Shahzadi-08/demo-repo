@@ -1,3 +1,6 @@
-# demo-repo
-Demo Repository to practice github
-Description.....
+#devops
+REpository for devops class
+#steps to execute
+git push/pull
+Vs Code
+Branching
